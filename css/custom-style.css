@@ -1,0 +1,45 @@
+html
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
+.navbar-brand {
+	font-family: "JULIUS SANS ONE";
+}
+
+#ohanalogo {
+	width:100px;
+	margin-top: -50px;
+	padding-bottom: 50px;
+	max-width: 100%;
+}
+
+#welcome {
+	margin-top: -60px;
+}
+#milalchurch {
+	top: 40px;
+}
+
+.social-icon {
+  width: 40px;
+  height: 40px;
+  margin: 0 20px;
+  top: 100px;
+}
+
+#stayconnected {
+	top: -50px;
+
+}
+
+@media (min-width: 992px) {
+	#ohanalogo {
+		padding-top: 10px;
+		margin-bottom: -70px;
+	}
+}
