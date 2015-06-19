@@ -30,6 +30,16 @@
 <!-- NAVBAR
 ================================================== -->
   <body>
+  <!-- Facebook SDK for Commenting -->
+    <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <!--/Facebook SDK-->
     <div class="navbar-wrapper">
       <div class="container">
 
@@ -201,6 +211,7 @@
             </div>
           </div>
         </div>
+<div class="container" class="fb-comments" data-href="http://jeremyukim.github.io/milalohana/index.html" data-numposts="5"></div>
 <div class="container">
   <div id="disqus_thread"></div>
   <script type="text/javascript">
