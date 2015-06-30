@@ -37,6 +37,9 @@ html
 
 }
 
+footer {
+	margin-top: -40px;
+}
 @media (min-width: 992px) {
 	#ohanalogo {
 		padding-top: 10px;
