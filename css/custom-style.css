@@ -37,6 +37,23 @@ html
 
 }
 
+#about {
+	margin-top:-25px;
+}
+
+#pastorsteachers {
+	margin-top: 0px;
+}
+
+.profilepic {
+	border-radius: 50%;
+	padding-top: 30px;
+	padding-bottom: 15px;
+	max-width: 200px;
+}
+
+
+
 footer {
 	margin-top: -40px;
 }
