@@ -62,4 +62,13 @@ footer {
 		padding-top: 10px;
 		margin-bottom: -70px;
 	}
+
+}
+@media (max-width: 991px) {
+	#milalchurch {
+		margin-top: -75px;
+	}
+	#welcome {
+		margin-top: 70px;
+	}
 }
