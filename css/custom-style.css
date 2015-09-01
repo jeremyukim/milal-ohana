@@ -26,10 +26,10 @@ html
 }
 
 .social-icon {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   margin: 0 10px;
-  top: 100px;
+  margin-top: 82px;
 }
 
 #stayconnected {
